@@ -1,5 +1,5 @@
 ## Live link
-[link]([doc:linking-to-pages#anchor-links](https://buzz-3ywi.onrender.com/))
+<a href="https://buzz-3ywi.onrender.com" target="_blank">Buzz</a>
 
 
 ## Project Overview
