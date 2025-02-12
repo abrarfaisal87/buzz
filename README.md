@@ -1,3 +1,7 @@
+## Live link
+[link]([doc:linking-to-pages#anchor-links](https://buzz-3ywi.onrender.com/))
+
+
 ## Project Overview
 A full-stack real-time chat application enabling instant messaging with user authentication. Features responsive UI, persistent chat history, and real-time message synchronization across connected clients.
 
