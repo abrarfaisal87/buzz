@@ -1,0 +1,11 @@
+# # Ignore environment files in the backend
+# /backend/.env
+
+# # Node modules
+# /backend/node_modules/
+# /frontend/node_modules/
+# Ignore .env everywhere
+**/.env
+
+# Ignore node_modules everywhere
+**/node_modules/
